@@ -1,0 +1,6 @@
+.visible-scrollbar{
+    display: block;
+    width: auto;
+    overflow: auto;
+    height: 15em;
+  }
